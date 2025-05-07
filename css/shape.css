@@ -74,38 +74,29 @@
 }
 
 /*Teeth*/
-/*.square-1{}*/
-/*.square-2{}*/
-/*.square-3{}*/
-/*.square-4{}*/
-/*.square-5{}*/
-/*.square-6{}*/
-/*.square-7{}*/
-/*.square-8{}*/
-/*.square-9{}*/
-/*.square-10{}*/
-/*.square-11{}*/
-/*.square-12{}*/
+.square {
+  width: 47px;
+  height: 42px;
+  background: var(--cream);
+  
+}
+
+/*Mouth*/
+.rectangle {
+  width: 325px;
+  height: 117px;
+  background: var(--dark-blue);
+}
 
 /*Ears*/
-.pacman-left {
+.pacman {
 }
 
-.pacman-right {
-}
 
 /*Hair*/
 .cone-1 {
 }
 
-.cone-2 {
-}
-
-.cone-3 {
-}
-
-.cone-4 {
-}
 
 .reversed-corners {
 }
