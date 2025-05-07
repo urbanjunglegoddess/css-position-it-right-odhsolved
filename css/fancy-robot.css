@@ -11,7 +11,9 @@
 }
 
 .robot-face-shape {
+  position: relative;
 }
+
 
 .robot-eyes {
   position: relative;
@@ -43,7 +45,8 @@
 }
 
 .robot-nose {
-
+  position: absolute;
+  margin: 20px 40%;
 }
 
 .robot-teeth {

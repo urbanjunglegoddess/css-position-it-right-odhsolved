@@ -54,7 +54,6 @@
   height: 60px;
   background: var(--pale-green);
   border-radius: 50%;
-  
 }
 
 .inside-circle-left {
@@ -67,6 +66,11 @@
 
 /*Nose*/
 .oval {
+  width: 178px;
+  height: 90px;
+  background: var(--peach-brown);
+  border-radius: 100px / 50px;
+      
 }
 
 /*Teeth*/
