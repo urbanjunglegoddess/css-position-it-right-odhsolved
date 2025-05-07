@@ -70,11 +70,19 @@
 }
 
 .robot-hair-one {
+  position: absolute;
+  top: 4%;
+  left: 30%;
+  margin: 30px;
 
 }
 
 .robot-hair-two {
-
+  position: absolute;
+  top: 5%;
+  right: ;
+  margin: 30px;
+  
 }
 
 .robot-hair-three {

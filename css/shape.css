@@ -101,7 +101,13 @@
 
 
 /*Hair*/
-.cone-1 {
+.cone {
+  width: 0;
+  height: 0;
+  border-left: 70px solid transparent;
+  border-right: 70px solid transparent;
+  border-top: 100px solid var(--pale-green);
+  border-radius: 50%;
 }
 
 
