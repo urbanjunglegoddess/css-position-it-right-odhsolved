@@ -90,7 +90,8 @@ This assignment should prove that a student is able to:
     available [HTML colors](https://www.w3schools.com/html/html_colors.asp).
   - [x] At least one shape should have a gradient background color chosen from the
     available [UI gradients](https://uigradients.com/).
-  - [ ] At least one shape should have a background image that fits the shape and doesn't overflow it, using images from [Lorem Picsum](https://picsum.photos/) or any other images CDN service.
+  - [x] At least one shape should have a background image that fits the shape and doesn't overflow it, using images
+    from [Lorem Picsum](https://picsum.photos/) or any other images CDN service.
   - [x] The width and / or height height of at least one shape should be based on the percentage units relative to the
     dimensions of the face shape.
   - [x] The width and / or height of at least one shape should be based on relative units relative to the font size.
