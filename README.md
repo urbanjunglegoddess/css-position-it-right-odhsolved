@@ -102,8 +102,9 @@ This assignment should prove that a student is able to:
 
 `For the Legal Page exercise`
 
-- [ ] Watch the [Legal Page INTRO video](https://www.loom.com/share/3c655c8a97ce4783a4698d7968c03c33?sid=b776b29f-cecb-4cc7-8663-7c3f1722f190).
-- [ ] Edit the following files to solve that part of the assignment:
+- [x] Watch
+  the [Legal Page INTRO video](https://www.loom.com/share/3c655c8a97ce4783a4698d7968c03c33?sid=b776b29f-cecb-4cc7-8663-7c3f1722f190).
+- [x] Edit the following files to solve that part of the assignment:
   - [ ] html: `/pages/legal-page.html`
   - [ ] css: `/css/legal-page.css`
 - [ ] The page heading container should be "pinned" in the top right beneath the header and take the full width of the viewport, regardless of how far the user scrolls down the page content.
