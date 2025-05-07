@@ -12,6 +12,7 @@
 
 .robot-face-shape {
   position: relative;
+  margin-top: 80px;
 }
 
 
@@ -38,14 +39,13 @@
 
 .robot-ear-left {
   position: absolute;
-  left: 10%;
+  left: 16%;
   rotate: -180deg;
-  
 }
 
 .robot-ear-right {
   position: absolute;
-  right: 10%;
+  right: 16%;
 }
 
 .robot-nose {
@@ -57,33 +57,45 @@
   position: absolute;
   margin: 20% 31%;
   display: block;
+  padding: 4px 1px 2px 4px;
 }
 
 .robot-tooth {
   position: relative;
   margin: 2px 1px;
   display: inline-block;
-
+  opacity: 50%;
 }
 
 .robot-hair-style {
+  position: absolute;
+  width: 35%;
+  top: 0;
+  /*outline: solid 1px chartreuse;*/
 }
 
-.robot-hair-one {
+.robot-hair-one,
+.robot-hair-two, .robot-hair-three {
   position: absolute;
-  top: 4%;
-  left: 30%;
-  margin: 30px;
-
-}
-
-.robot-hair-two {
-  position: absolute;
-  top: 5%;
-  right: ;
-  margin: 30px;
   
 }
 
+.robot-hair-one:first-child {
+  left: 2%;
+}
+
+.robot-hair-one:last-child {
+  left: 70%;
+}
+
+.robot-hair-two:nth-child(2) {
+  left: 20%;
+}
+
+.robot-hair-two:nth-child(4) {
+  left: 50%;
+}
+
 .robot-hair-three {
+  left: 37%;
 }

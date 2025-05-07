@@ -18,7 +18,7 @@
                            var(--dark-blue) 100%);
   clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
   transition: transform 0.3s ease;
-  border-radius: 50px;
+  border-radius: 40%;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
   border: 5px dashed var(--dark-blue);
   stroke: var(--light-blue);
@@ -70,7 +70,11 @@
   height: 90px;
   background: var(--peach-brown);
   border-radius: 100px / 50px;
-      
+  background-image: url("https://picsum.photos/200/100");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 50%;
 }
 
 /*Teeth*/
@@ -110,6 +114,3 @@
   border-radius: 50%;
 }
 
-
-.reversed-corners {
-}
