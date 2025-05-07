@@ -17,6 +17,10 @@
 
 .robot-eyes {
   position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
 }
 
 .robot-eye-left,
@@ -26,18 +30,22 @@
   height: 120px;
   background: var(--cream);
   border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin-top: 20px;
-  margin-left: -60px;
-  top: 50%;
-  left: 50%;
 }
 
 .robot-ear-left {
-
+  position: absolute;
+  left: 10%;
+  rotate: -180deg;
+  
 }
 
 .robot-ear-right {
-
+  position: absolute;
+  right: 10%;
 }
 
 .robot-nose {
@@ -52,6 +60,9 @@
 }
 
 .robot-tooth {
+  position: relative;
+  margin: 2px 1px;
+  display: inline-block;
 
 }
 

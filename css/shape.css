@@ -90,6 +90,13 @@
 
 /*Ears*/
 .pacman {
+  width: 0;
+  height: 0;
+  border-right: 60px solid transparent;
+  border-top: 60px solid var(--peach-brown);
+  border-left: 60px solid var(--peach-brown);
+  border-bottom: 60px solid var(--peach-brown);
+  border-radius: 60px;
 }
 
 
