@@ -6,6 +6,8 @@
   --pale-green:#bbb193;
 
 }
+
+/* face-shape */
 .hexagon {
   position: relative;
   width: calc(100vh/1);
@@ -26,3 +28,79 @@
   transform: scale(1.05);
 }
 
+/*Eyes*/
+
+.outside-circle-left {
+  width: 113px;
+  height: 113px;
+  background: var(--cream);
+  border-radius: 50%;
+  padding: 100px;
+}
+
+
+.outside-circle-right {
+  width: 113px;
+  height: 113px;
+  background: var(--cream);
+  border-radius: 50%;
+  padding: 100px;
+}
+
+.inside-circle-left,
+.inside-circle-right {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  background: var(--pale-green);
+  border-radius: 50%;
+}
+
+.inside-circle-left {
+  left: 30%;
+}
+
+.inside-circle-right {
+  right: 30%;
+}
+
+/*Nose*/
+.oval {
+}
+
+/*Teeth*/
+/*.square-1{}*/
+/*.square-2{}*/
+/*.square-3{}*/
+/*.square-4{}*/
+/*.square-5{}*/
+/*.square-6{}*/
+/*.square-7{}*/
+/*.square-8{}*/
+/*.square-9{}*/
+/*.square-10{}*/
+/*.square-11{}*/
+/*.square-12{}*/
+
+/*Ears*/
+.pacman-left {
+}
+
+.pacman-right {
+}
+
+/*Hair*/
+.cone-1 {
+}
+
+.cone-2 {
+}
+
+.cone-3 {
+}
+
+.cone-4 {
+}
+
+.reversed-corners {
+}

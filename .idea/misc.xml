@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
-  <component name="MaliciousPackageCheckinHandlerState">
-    <option name="packageCheck" value="true" />
-  </component>
+  <component name="KubernetesApiProvider">{}</component>
   <component name="Play2CompilerConfiguration">
     <option name="PROJECT_PLAY_MODULE" value="" />
   </component>

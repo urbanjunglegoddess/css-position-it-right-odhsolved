@@ -13,12 +13,25 @@
 .robot-face-shape {
 }
 
-.robot-eye-left {
-
+.robot-eyes {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
 }
 
+.robot-eye-left,
 .robot-eye-right {
-
+  position: relative;
+  width: 120px;
+  height: 120px;
+  background: var(--cream);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
 }
 
 .robot-ear-left {
