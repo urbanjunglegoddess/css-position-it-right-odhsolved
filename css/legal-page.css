@@ -27,9 +27,9 @@ section {
   gap: 30px;
   position: relative;
   border-bottom: 1px solid grey;
-  padding: 30px;
   max-width: 900px;
   margin: 110px auto 0;
+  padding: 30px 30px 85px;
   color: white;
 }
 
