@@ -39,7 +39,7 @@ This assignment should prove that a student is able to:
 - [x] Clone the project to your computer
 - [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
 - [x] This Assignment is NOT tested. You can use all the desired creativity!
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
+- [x] All the tasks of the "Specific requirements" section MUST be solved
 - [x] The project's file/folder structure should NOT be edited!
 - [x] The index.html file should NOT be edited! The only acceptable change are additional classes added to elements.
 - [ ] VSCode IDE MUST have 0 problems listed
@@ -105,8 +105,8 @@ This assignment should prove that a student is able to:
 - [x] Watch
   the [Legal Page INTRO video](https://www.loom.com/share/3c655c8a97ce4783a4698d7968c03c33?sid=b776b29f-cecb-4cc7-8663-7c3f1722f190).
 - [x] Edit the following files to solve that part of the assignment:
-  - [ ] html: `/pages/legal-page.html`
-  - [ ] css: `/css/legal-page.css`
+  - [x] html: `/pages/legal-page.html`
+  - [x] css: `/css/legal-page.css`
 - [x] The page heading container should be "pinned" in the top right beneath the header and take the full width of the
   viewport, regardless of how far the user scrolls down the page content.
 - [x] The footer should be anchored to the bottom of the viewport, ensuring it remains visible even while scrolling.
